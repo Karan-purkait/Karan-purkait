@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-purkait&label=Profile%20views&color=0e75b6&style=flat" alt="karan-purkait" /> </p>
 
-- 🌱 I’m currently learning **Java **
+- 🌱 I’m currently learning Java 
 
 - 📫 How to reach me **purkaitkaran2003@gmail.com**
 
