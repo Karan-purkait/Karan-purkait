@@ -54,7 +54,8 @@
 <p align="center">
   <a href="https://github.com/karan-purkait">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karan-purkait&show_icons=true&theme=radical" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-purkait&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=karan-purkait&theme=radical" />
+
 
   </a>
 </p>
