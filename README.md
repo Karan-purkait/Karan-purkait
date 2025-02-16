@@ -80,6 +80,16 @@
 
 ---
 
+## **🎵 Spotify Now Playing**
+<p align="center">
+  <a href="[https://open.spotify.com/user/your-spotify-id](https://open.spotify.com/user/31dp3cc7ueozy6qvlwvkoq7v32va?si=Bzj3wUsmS6SeEYnbOpU1eA )">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+</p>
+
+
+---
+
 💙 **Like my work? Support me by following!** 🚀  
 ⭐ **Star some repositories that you find interesting!** 😊  
 
