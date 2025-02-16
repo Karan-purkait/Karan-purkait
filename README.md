@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Karan Purkait </h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2fc974ba1f7c9e3d7689c653805b76e3cd055f37c6d5c58be2fc748c3f1232d4/68747470733a2f2f74686572757368616e7468756c692e636f6d2f696d616765732f636f64696e672e676966">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-purkait&label=Profile%20Views&color=0e75b6&style=flat" alt="karan-purkait" /> </p>
 
@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://github.com/karan-purkait">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karan-purkait&show_icons=true&theme=radical" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-purkait&theme=radical" />
+    <img width="48%" src="https://streak-stats.demolab.com/?user=karan-purkait&theme=radical" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 📊 **My contribution graph over the past year:**
 <p align="center">
   <a href="https://github.com/karan-purkait">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan-purkait&theme=redical" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan-purkait&theme=react-dark" />
   </a>
 </p>
 
@@ -64,7 +64,9 @@
 
 ## **🎵 Spotify Now Playing**
 <p align="center">
-  <img src="https://novatorem-ten.vercel.app/api/spotify" alt="Spotify Now Playing">
+  <a href="https://open.spotify.com/user/your-spotify-id">
+    <img src="https://novatorem-iota.vercel.app/api/spotify" alt="Spotify Now Playing">
+  </a>
 </p>
 
 ---
@@ -72,5 +74,4 @@
 💙 **Like my work? Support me by following!** 🚀  
 ⭐ **Star some repositories that you find interesting!** 😊  
 
----
 
