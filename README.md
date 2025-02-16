@@ -21,15 +21,32 @@
 
 ---
 
-## **📡 Connect With Me**  
-<p align="left">
-<a href="https://www.linkedin.com/in/karan-purkait-609672251" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karan-purkait" height="30" width="40" />
-</a>
-<a href="mailto:purkaitkaran2003@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="karan-purkait" height="30" width="40" />
-</a>
+## 🌍 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/karan-purkait-609672251" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:purkaitkaran2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/karan-purkait" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/your-twitter-id" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/your-instagram-id" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
+
+---
+
+### **🔥 Animated Badge (Typing Effect)**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0D82C4&center=true&vCenter=true&width=500&lines=Let's+Connect!+🚀;Feel+Free+to+Reach+Out!+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -37,7 +54,8 @@
 <p align="center">
   <a href="https://github.com/karan-purkait">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karan-purkait&show_icons=true&theme=radical" />
-    <img width="48%" src="https://streak-stats.demolab.com/?user=karan-purkait&theme=radical" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-purkait&theme=radical" />
+
   </a>
 </p>
 
@@ -57,15 +75,6 @@
 <p align="center">
   <a href="https://github.com/karan-purkait">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan-purkait&theme=react-dark" />
-  </a>
-</p>
-
----
-
-## **🎵 Spotify Now Playing**
-<p align="center">
-  <a href="https://open.spotify.com/user/your-spotify-id">
-    <img src="https://novatorem-iota.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
 </p>
 
