@@ -53,10 +53,11 @@
 ## **📊 GitHub Stats & Streak**
 <p align="center">
   <a href="https://github.com/karan-purkait">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karan-purkait&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img width="48%" src="https://streak-stats.demolab.com?user=karan-purkait&theme=tokyonight&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karan-purkait&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=karan-purkait&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
 
 
 ---
