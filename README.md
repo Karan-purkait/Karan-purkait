@@ -15,8 +15,8 @@
 
 ## 🔥 **About Me**  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%7C+Tech+Enthusiast;Building+Cool+Stuff+with+Code+🚀;Creating+Impact+Through+Tech+💪
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%7C+Tech+Enthusiast;Building+Cool+Stuff+with+Code+🚀;Creating+Impact+Through+Tech+💪;Full-Stack+Web+Dev+%7C+Problem+Solver;Passionate+About+Open-Source+%F0%9F%92%AA" alt="Typing Animation" />
+</p>
 
 - 🚀 **Code + Innovation = My Superpower** 🦸‍♂️  
 - 🌱 Currently **mastering Java, Advanced Algorithms & System Design**  
@@ -24,7 +24,7 @@
 - 🛠️ **Building the Future:** **SERI** ♻️ & **YoloStay** 🏠  
 - 🎨 Love **crafting stunning UIs & optimizing performance**  
 - 📬 Hit me up at **[purkaitkaran2003@gmail.com](mailto:purkaitkaran2003@gmail.com)**  
- 
+
 
 ---
 
