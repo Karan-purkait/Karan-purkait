@@ -15,7 +15,7 @@
 
 ## 🔥 **About Me**  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines=MERN+Stack+Developer+%7C+Tech+Enthusiast;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Creating+Impact+Through+Tech+%F0%9F%92%AA" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=450&lines= MERN+Stack+Developer+%7C+Tech+Enthusiast;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Creating+Impact+Through+Tech+%F0%9F%92%AA" alt="Typing Animation" />
 </p>
 
 - 🚀 **Code + Innovation = My Superpower** 🦸‍♂️  
