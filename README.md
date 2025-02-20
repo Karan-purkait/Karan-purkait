@@ -37,16 +37,16 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/karan-purkait-609672251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:purkaitkaran2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/karan-purkait" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/your-twitter-id" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/your-instagram-id" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
