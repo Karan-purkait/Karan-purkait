@@ -33,7 +33,7 @@
 ---
 
 💙 **Want to collab? Drop me a message!** 🎯✨  
-🔗 **Let's Connect: ** 
+🔗 **Let's Connect:  ** 
 <p align="center">
   <a href="https://www.linkedin.com/in/karan-purkait-609672251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
