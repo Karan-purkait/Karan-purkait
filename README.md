@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-purkait&label=Profile%20Views&color=0e75b6&style=flat" alt="karan-purkait" /> </p>
 
-🛠️ **Tech Stack:**  
+🛠️ Tech Stack: 
 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) &nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) &nbsp;&nbsp;
