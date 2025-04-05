@@ -1,9 +1,5 @@
  <h1 align="center"> Hi 👋, I'm Karan Purkait </h1>
 <h3 align="center"> 🚀 A Passionate MERN Stack Developer from India 🇮🇳   </h3>
-
-
-
-       
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-purkait&label=Profile%20Views&color=0e75b6&style=flat" alt="karan-purkait" /> </p>
