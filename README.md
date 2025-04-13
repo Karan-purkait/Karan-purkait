@@ -1,16 +1,40 @@
+<!-- README.md for Karan Purkait -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+There+%F0%9F%91%8B+I'm+Karan+Purkait;MERN+Stack+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Heyyy%2C+I'm+Karan+Purkait+%F0%9F%91%8B" alt="Typing animation" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+  <b><i>A.K.A the "Backbencher with Billion-Dollar Ideas" 💡</i></b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/karan-purkait" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=karan-purkait&label=🔥+Profile+Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF61C6&center=true&vCenter=true&width=800&lines=MERN+Dev+%E2%9A%9B%EF%B8%8F;Tech+Tinkerer+%F0%9F%9B%A0;App+Architect+%F0%9F%93%B1;Bug+Whisperer+%F0%9F%90%9E;Science+Congress+Samurai+%F0%9F%A7%AA" alt="Animated roles" />
 </p>
+
+
+---
+
+const karan = {
+  fullName: "Karan Purkait",
+  code: ["JavaScript", "React", "Node", "C++", "Java", "Flutter"],
+  techStack: ["MERN", "Firebase", "MongoDB", "Tailwind", "Express"],
+  hobbies: [
+    "Building apps nobody asked for",
+    "Judging bad UI",
+    "Writing Bengali poems",
+    "Lifting weights"
+  ],
+  projects: [
+    "SERI ♻️",
+    "YoloStay 🏠",
+    "Codebird 🐤",
+    "Blossom Bazar 🌸",
+    "EventEase 🎤"
+  ],
+  status: "Currently hustling towards IIT/NIT 🚀"
+};
+
 
 
 ---
@@ -87,12 +111,14 @@
 </p>
 
 ---
+## ✨ Let's Connect & Build Cool Stuff Together
 
-## ✨ Typing Badge Footer  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0D82C4&center=true&vCenter=true&width=500&lines=Let's+Connect!+🚀;Feel+Free+to+Reach+Out!+%F0%9F%91%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0D82C4&center=true&vCenter=true&width=500&lines=Let's+Connect!+🚀;Slide+into+my+Inbox+or+DMs!+📬;Collab+%7C+Contribute+%7C+Create+%F0%9F%92%A1;Open+to+cool+projects+%26+chaotic+debugging+sessions!+🔥" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center"><b>⭐ Star your favorite repositories and let’s grow together!</b></p>
+<p align="center">
+  ⭐ <b>If you liked what you saw, star a repo or drop a follow. Let’s grow, build, and vibe together!</b> 🌱
+</p>
